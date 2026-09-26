@@ -1,0 +1,11 @@
+backend/.env
+backend/*.db
+backend/finance.db-shm
+backend/finance.db-wal
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+frontend/node_modules/
+.DS_Store
